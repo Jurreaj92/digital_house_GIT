@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Comprar la comida",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Cocinar la comida",
+        "estado": "En progreso"
+    },
+    {
+        "titulo": "Lavar los Platos",
+        "estado": "Pendiente"
+    }
+]   
