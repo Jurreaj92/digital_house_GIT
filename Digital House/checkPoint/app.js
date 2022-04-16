@@ -7,12 +7,12 @@ const concesionaria = {
    // autos.filter(function(patente){
    //    return autos.patente === patente
    function filtrarPorPatente(patente){
-    const autosFiltrados = autos.filter(function(autos){
+    const autosFiltrados = autos.filter(function(patente){
         return autos.patente == patente;
     });
-    return autosFiltrados;
+    return autos;
    }
 }
 
-console.log(autosFiltrados)
-console.log(autos)
+// console.log(autosFiltrados)
+console.log(concesionaria.buscarAuto("JJK116"))
