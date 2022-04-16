@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Hacer la cama",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "Hacer la comida",
+    "estado": "progreso"
+  },
+  {
+    "titulo": "Hacer los ejercicios de playground",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "Lavar ropa sucia",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "Planchar la ropa",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Cocinar la comida",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Regar las plantas",
+    "estado": "progreso"
+  },
+  {
+    "titulo": "Lavar el auto",
+    "estado": "progreso"
+  },
+  {
+    "titulo": "Cambiar las sábanas",
+    "estado": "pendiente"
+  }
+]
